@@ -13,8 +13,8 @@ modules:
     - name: NIS_One-Click-Backup_Qt
       buildsystem: cmake-ninja
       sources:
-      - type: archive
-        url: https://gitlab.com/dev-nis/nis-one-click-backup-qt/uploads/52b3341afaa35fbe92bd69995f971983/cmake.tar.gz
-        sha256: 69df0685ac7548d48379b5e02c9d70164d7837afb7c5c93fbbaa642cb8a13671
+      - type: git
+        url: https://gitlab.com/dev-nis/nis-one-click-backup-qt.git
+        #sha256: 69df0685ac7548d48379b5e02c9d70164d7837afb7c5c93fbbaa642cb8a13671
 
 
