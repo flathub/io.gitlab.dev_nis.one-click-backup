@@ -15,6 +15,8 @@ modules:
       sources:
       - type: git
         url: https://gitlab.com/dev-nis/nis-one-click-backup-qt.git
+        #tag: 1.2.2.1
+        branch: master
         #sha256: 69df0685ac7548d48379b5e02c9d70164d7837afb7c5c93fbbaa642cb8a13671
 
 
